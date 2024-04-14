@@ -27,4 +27,8 @@ import HelloWorld from './components/HelloWorld.vue'
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
 }
+* {
+  margin: 0;
+  padding: 0;
+}
 </style>
